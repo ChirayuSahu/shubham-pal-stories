@@ -3,10 +3,10 @@ import { Mail, Instagram, Youtube, Linkedin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const links = [
-  { icon: Mail, label: "Email", href: "mailto:hello@shubhampal.com" },
-  { icon: Instagram, label: "Instagram", href: "https://instagram.com" },
-  { icon: Youtube, label: "YouTube", href: "https://youtube.com" },
-  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com" },
+  { icon: Mail, label: "Email", href: "mailto:shubhampalll968@gmail.com" },
+  { icon: Instagram, label: "Instagram", href: "https://instagram.com/thepsynide" },
+  { icon: Youtube, label: "YouTube", href: "https://youtube.com/thepsynidelol" },
+  { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/shubham-pal-809630210/" },
 ];
 
 const ContactSection = () => {

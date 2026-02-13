@@ -41,8 +41,8 @@ const HeroSection = () => {
 
       <div className="container mx-auto px-4 py-20 text-center relative z-10">
         {/* Profile picture placeholder */}
-        <div className="mx-auto mb-8 w-32 h-32 rounded-full border-2 border-primary/60 glow-purple animate-pulse-glow flex items-center justify-center bg-secondary">
-          <span className="font-display text-3xl font-bold text-gradient-purple">SP</span>
+        <div className="mx-auto mb-8 w-48 h-48 rounded-full border-2 border-primary/60 glow-purple animate-pulse-glow flex items-center justify-center bg-secondary">
+          <img src="/profile.jpeg" alt="Shubham Pal" className="w-full h-full rounded-full object-cover" />
         </div>
 
         <p className="text-primary font-medium tracking-widest uppercase text-sm mb-4">
