@@ -5,23 +5,44 @@ import { Badge } from "@/components/ui/badge";
 
 const projects = [
   {
-    title: "CEO of Vena Solutions & Innogent Technologies",
+    title: "Personal Branding Videos",
     thumbnail: "/project1.jpg",
-    link: "https://www.linkedin.com/in/gautam-yadav/", // <--- ADD LINK HERE
+    link: "https://drive.google.com/drive/folders/1DvLGbqcWxbCNT-_WW1tfj1pRJUuQklvV?usp=drive_link",
     tags: ["Current Client", "YouTube", "Long-Form"],
-    desc: "Editing high-impact video content for a tech CEO — combining professional polish with story-driven narratives.",
+    desc: "Strategic video content focused on storytelling and brand authority across YouTube, Instagram, and LinkedIn.",
   },
   {
-    title: "Personal YouTube — Viral Videos",
-    thumbnail: "/project2.jpeg",
-    link: "https://www.youtube.com/@ThePsynide/videos", // <--- ADD LINK HERE
+    title: "Funny Viral Memes",
+    thumbnail: "https://i.postimg.cc/VN2g3Lzv/Whats-App-Image-2026-02-17-at-4-27-56-PM.jpg",
+    link: "https://www.instagram.com/reel/DNPofgix1xK",
     tags: ["YouTube", "Viral", "Short-Form"],
-    desc: "Created multiple viral videos on my personal YouTube channel, leveraging trend analysis and storytelling.",
+    desc: "Trend-based edits combining timing, memes, and storytelling to create highly shareable and engaging viral content.",
   },
   {
-    title: "DIFFR Instagram — Viral Edits",
+    title: "Informative Reels/Shorts",
     thumbnail: "/project3.jpeg",
-    link: "https://www.instagram.com/diffrcommunity/", // <--- ADD LINK HERE
+    link: "https://drive.google.com/drive/folders/1Tcq9J6kXbRN-wNSGyQ1Jpzh4btBrzN0N?usp=drive_link",
+    tags: ["Instagram", "Reels", "Motion Graphics"],
+    desc: "Educational short-form content edited with sharp cuts, kinetic text, and platform-optimized pacing to increase reach and retention.",
+  },
+  {
+    title: "Long Form YouTube Videos",
+    thumbnail: "https://i.postimg.cc/1RbgwnMW/f-B6URTq-COFc-HD-(1).jpg",
+    link: "https://youtu.be/fB6URTqCOFc?si=HgbRaiEMoZNC3B3I",
+    tags: ["Instagram", "Reels", "Motion Graphics"],
+    desc: "High-retention YouTube videos crafted with strong storytelling, structured pacing, and clean edits designed to keep viewers engaged till the end.",
+  },
+  {
+    title: "YouTube Thumbnails",
+    thumbnail: "https://i.postimg.cc/fyJPYgWW/vy-Ytm-Jl-EIts-HD-(1).jpg",
+    link: "https://drive.google.com/drive/folders/1xXZZ2u0HjjaLvv1TToi_n73gyvKwB7Og?usp=drive_link",
+    tags: ["Instagram", "Reels", "Motion Graphics"],
+    desc: "Produced viral Instagram edits for DIFFR, blending fast-paced editing with kinetic typography.",
+  },
+  {
+    title: "Personal YouTube",
+    thumbnail: "https://i.postimg.cc/ZqYzCHNT/PC-BUILD-4.jpg",
+    link: "https://youtu.be/UejUSPuWYEg?si=YU9taVzBD3vv4cub",
     tags: ["Instagram", "Reels", "Motion Graphics"],
     desc: "Produced viral Instagram edits for DIFFR, blending fast-paced editing with kinetic typography.",
   },

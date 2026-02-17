@@ -5,8 +5,8 @@ import { Card, CardContent } from "@/components/ui/card";
 const services = [
   {
     icon: Film,
-    title: "Short-Form Editing",
-    desc: "Reels & Shorts that hook viewers in seconds with punchy cuts, kinetic text, and emotion-driven pacing.",
+    title: "Viral Reel Editing",
+    desc: "Reels crafted for maximum reach using context-based storytelling and AI-powered editing. Optimized for each platform with smart pacing, hooks, captions, and trend-aligned cuts to boost engagement and retention.",
   },
   {
     icon: Mic,
@@ -21,7 +21,7 @@ const services = [
   {
     icon: Image,
     title: "Thumbnail Design",
-    desc: "Eye-catching thumbnails engineered for maximum CTR using bold typography and emotional triggers.",
+    desc: "Eye-catching psychological thumbnails engineered for maximum CTR using bold typography and emotional triggers.",
   },
   {
     icon: TrendingUp,
