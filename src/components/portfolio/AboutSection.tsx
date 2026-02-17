@@ -75,7 +75,7 @@ const AboutSection = () => {
               </div>
               <div className="ml-[52px] space-y-3 border-l border-border/50 pl-4">
                 <div>
-                  <p className="text-sm font-medium text-foreground">Short Form Video Editor & Graphic Designer</p>
+                  <p className="text-sm font-medium text-foreground">Video Editor & Graphic Designer</p>
                   <p className="text-xs text-muted-foreground">Viha Tech Software · Dec 2024 – Jan 2025</p>
                 </div>
                 <div>
