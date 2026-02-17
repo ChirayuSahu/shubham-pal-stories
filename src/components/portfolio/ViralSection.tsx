@@ -40,14 +40,14 @@ const viralReels = [
         views: "450K+",
     },
     {
-        thumbnail: "https://i.postimg.cc/6TJR6yyM/Image-165.jpg",
-        link: "https://www.instagram.com/reel/DKMKQV6Rtsv",
-        views: "150K+",
+        thumbnail: "https://i.postimg.cc/cJgn3RwM/Image-407.jpg",
+        link: "https://www.instagram.com/reel/DQ1ANTkjK1C",
+        views: "250K+",
     },
     {
-        thumbnail: "https://i.postimg.cc/dt2nkYwP/Image-573.jpg",
-        link: "https://www.instagram.com/reel/DLb1yXFxg0K",
-        views: "250K+",
+        thumbnail: "https://i.postimg.cc/Sxj206Zw/Image-589.jpg",
+        link: "https://www.instagram.com/reel/DPBieiGkW6F",
+        views: "450K+",
     },
 
 ];
